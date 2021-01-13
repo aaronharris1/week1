@@ -11,3 +11,17 @@ First Repo
 'git commit' commit/save files to the repository
 
 'git status' check the status of the repository
+
+## Basic Bash Commands
+
+'pwd' print current working directory
+
+'cd' change directory
+
+'ls' list content
+
+'ls -a' list all files
+
+'mkdir' create directory
+
+'touch' create file
